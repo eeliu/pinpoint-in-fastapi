@@ -1,0 +1,13 @@
+aioredis==2.0.1
+fastapi
+httpx==0.25.1
+pydantic==2.4.2
+SQLAlchemy==2.0.23
+starlette
+starlette_context
+uvicorn
+pymysql
+requests
+mysql-connector-python==8.0.31
+motor==2.5.1
+pinpointPy
