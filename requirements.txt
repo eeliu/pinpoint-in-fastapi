@@ -8,6 +8,6 @@ starlette_context
 uvicorn
 pymysql
 requests
-mysql-connector-python==8.0.31
+mysql-connector-python==9.1.0
 motor==2.5.1
 pinpointPy==1.2.1
